@@ -6,9 +6,6 @@
                 file:///usr/share/openbox/menu.xsd">
 
 <menu id="root-menu" label="Openbox 3">
-  <item label="tmux">
-    <action name="Execute"><execute>'gnome-terminal.wrapper && tmux'</execute></action>
-  </item>
   <item label="Terminal emulator">
     <action name="Execute"><execute>x-terminal-emulator</execute></action>
   </item>
