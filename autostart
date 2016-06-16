@@ -1,0 +1,7 @@
+# Run these at startup
+
+tint2 &
+
+#Set the wallpaper if you want
+#hsetroot ~/wallpaper.png &
+
